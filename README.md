@@ -2,6 +2,8 @@
 
 Nuqud is a personal finance and shared-expenses app. Track your money, split bills with friends and family, and see where it all goes. It works offline, so your data stays on your phone and you do not need a connection to use it.
 
+Website: **[nuqud.app](https://nuqud.app/)**
+
 This page is where the Android builds are published.
 
 ## Install on Android
